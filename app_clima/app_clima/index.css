@@ -1,0 +1,121 @@
+* {
+      padding-top: 0%;
+      text-align: center;
+  }
+  
+body {
+      color: aqua;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-image: url(./imagenes/fondodiez.jpg);
+      background-size: cover;
+      range: auto;
+      margin: 18px;
+  }
+  
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(217, 255, 0);
+    text-align: center;
+}
+  
+h2 {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 30px;
+      color: rgb(217, 255, 0);
+      text-align: center;
+  }
+
+  
+button {
+    position: relative;
+    margin: 0 auto;
+    width: var(--btn-w);
+    color:rgb(246, 255, 0);
+    background-color: rgb(0, 0, 0);
+    border: 1.5em solid var(--primary);
+    border-radius: 5em;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.3em;
+    line-height: 2em;
+    cursor: pointer; 
+}
+
+input {
+      text-align: center;
+      background-color: rgba(162, 177, 147, 0.252);
+      border-radius: 5px;
+      padding: 6px 120px;
+      font-size: 30px;
+      color: rgb(255, 242, 0);
+}
+  
+    #resultado {
+      font-family: Arial, Helvetica, sans-serif;
+      color: aqua;
+      font-weight: 20;
+      text-align: center;
+}
+  
+    #resultado1 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: aqua;
+      font-weight: 20;
+      text-align: center;
+}
+  
+    #resultado2 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: aqua;
+      font-weight: 20;
+      text-align: center;
+}
+    #resultado3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    font-weight: 20;
+    text-align: center;
+}
+    #resultado4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    font-weight: 20;
+    text-align: center;
+}
+    #resultado5 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    font-weight: 20;
+    text-align: center;
+}
+  
+div {
+      column-count: 3;
+      
+      text-align: center;
+}
+  
+p {
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(255, 255, 255);
+      font-weight: 300;
+      font-size: 20px;
+      text-align: center;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+    font-size: 18px;
+    padding: 100px;
+}
+
+footer{
+    background-color: rgb(11, 71, 190);
+    height: 25px;
+    border-radius: 6px;
+    padding: 0%;
+}
